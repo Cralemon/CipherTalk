@@ -68,6 +68,9 @@ xkey
 .tmp
 Agent示例UI/
 
+# Project overview notes
+PROJECT_OVERVIEW.md
+
 # Embedded CLI local outputs
 CipherTalk-CLI/node_modules/
 CipherTalk-CLI/dist/
